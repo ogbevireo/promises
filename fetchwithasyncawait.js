@@ -16,4 +16,4 @@ const starWarsPeople = async () => {
   }
 };
 
-starWarsPeople();
+starWarsPeople(); 
