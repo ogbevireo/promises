@@ -38,7 +38,7 @@ const newDadJoke = async () => {
 
 }
 
-newDadJoke()
+// newDadJoke()
 
 button.addEventListener('click', newDadJoke);
 // dadJokes()
